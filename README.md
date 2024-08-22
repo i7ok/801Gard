@@ -54,6 +54,12 @@ Kingdoms - 250/500/100
 
 -Upgraded buildings Upkeep Factor = 1.9 -> 1.0
 
+-Unit step cost 6 -> 10
+
+-Dragonmen step cost 10 -> 15
+
+-Brawler step cost 15 -> 22
+
 # FORGE BALANCED:
 
 -Relic forge time 16 -> 10 months.
