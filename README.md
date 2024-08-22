@@ -12,11 +12,11 @@ Paste the res.pak in folder of the game // Скопировать файл res.p
 
 # MegaMind // Сверхинтеллект
 
-Download my data.cbd // Скачать мой файл data.cbd -> https://drive.google.com/file/d/1TmN1duqNlayoMJ15aCNcE33Z5yrDyICk/view?usp=sharing
+Download my data.cbd // Скачать мой файл [data.cbd](https://drive.google.com/file/d/1TmN1duqNlayoMJ15aCNcE33Z5yrDyICk/view?usp=sharing)
 
-Download QuickBMS // Скачать QuickBMS -> https://aluigi.altervista.org/papers/quickbms.zip
+Download // Скачать [QuickBMS](https://aluigi.altervista.org/papers/quickbms.zip) 
    
-Download northgard_res_pak.bms // Скачать northgard_res_pak.bms -> https://drive.google.com/file/d/1_UqWCUoWvQw_LWCGJVuB0_lAblkzciiG/view?usp=drive_link
+Download // Скачать [northgard_res_pak.bms](https://drive.google.com/file/d/1_UqWCUoWvQw_LWCGJVuB0_lAblkzciiG/view?usp=drive_link) 
 
 Open reimport.bat // Запустить файл reimport.bat
 
