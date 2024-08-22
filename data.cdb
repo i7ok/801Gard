@@ -71122,7 +71122,7 @@
 					"specificTechs": [
 						{
 							"newTech": "ChainTasks",
-							"oldTech": "Mining"
+							"oldTech": "BetterSilo"
 						},
 						{
 							"newTech": "EnforcedEnrollment",
@@ -71138,7 +71138,7 @@
 						},
 						{
 							"newTech": "Invasion",
-							"oldTech": "BetterSilo"
+							"oldTech": "SlotGrowth"
 						}
 					],
 					"fame": [
