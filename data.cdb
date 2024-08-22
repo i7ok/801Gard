@@ -133238,6 +133238,26 @@
 					}
 				},
 				{
+					"id": "ArrowLeftNews",
+					"gfx": {
+						"file": "ui/buttons/arrowLeft.png",
+						"size": 14,
+						"x": 0,
+						"y": 0,
+						"height": 2
+					}
+				},
+				{
+					"id": "ArrowRightNews",
+					"gfx": {
+						"file": "ui/buttons/arrowRight.png",
+						"size": 14,
+						"x": 0,
+						"y": 0,
+						"height": 2
+					}
+				},
+				{
 					"id": "ChatMuteButton",
 					"gfx": {
 						"file": "ui/icons/categoryIcons.png",
