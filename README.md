@@ -19,7 +19,7 @@ Download // Скачать [northgard_res_pak.bms](https://drive.google.com/file
 
 Open reimport.bat // Запустить файл reimport.bat
 
-Choose reimport.bat // В окне reimport.bat выбрать northgard_res_pak.bms
+Choose northgard_res_pak.bms // В окне reimport.bat выбрать northgard_res_pak.bms
 
 Choose res.pak in game folder // Потом выбрать res.pak в папке с игрой (steam/steamapps/common/northgard)
 
