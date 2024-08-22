@@ -31,13 +31,15 @@ Your northgard is patched and you can host p2p lobbys with your rules // Нор�
 
 If you'd like to have original rules back, just restore the game via Steam // Чтобы вернуть нортгард обратно к оригиналу, замените файл res.pak обратно на оригинальный или восстановите игру через steam
 
-# CHANGES FROM TETONGARD: // ИЗМЕНЕНИЯ ТЕТОНГАРДА: 
-
+# CHANGES FROM TETONGARD: // ИЗМЕНЕНИЯ ТЕТОНГАРДА:
+----------------------------------------------------------------
 # STARTING RESOURCES:
-name  | Vikings | Kingdoms
-food  |   100   |   250
-lumber|   500   |   500
-gold  |   100   |   100
+
+Vikings - 100/500/100
+
+Kingdoms - 250/500/100
+
+# GENERAL CHANGES: 
 
 -Starting population = 6 -> 11 pop
 
@@ -53,7 +55,6 @@ gold  |   100   |   100
 
 -Upgraded buildings Upkeep Factor = 1.9 -> 1.0
 
-----------------------------------------------------------------
 # FORGE BALANCED:
 
 -Relic forge time 16 -> 10 months.
@@ -65,5 +66,13 @@ gold  |   100   |   100
 -Weapon extension forge time 3 -> 1 month (kingdom's weapons)
 
 ----------------------------------------------------------------
-
 # RAT
+
+-Starting villagers 8 -> 11 pop
+
+----------------------------------------------------------------
+# DRAGON
+
+-Starting villagers -> 8 
+
+-Starting slaves -> 4
