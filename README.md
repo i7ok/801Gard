@@ -1,7 +1,6 @@
 # 801Gard v1.0
 
-first patch of northgard is ["TetonGard"](https://github.com/i7ok/tetongard)
-
+first patch of northgard is ["TetonGard"](https://github.com/tetonbl4/tetongard)
 2 way to istall 801Gard  //  Есть 2 способа установки патча. Выбирайте, какой вам удобнее.
 
 #  Easy way // Элементарый
