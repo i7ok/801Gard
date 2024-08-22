@@ -173,22 +173,22 @@
 				{
 					"id": "WarbandDragonCostFactor",
 					"props": {},
-					"oldValue": 0,
-					"value": 10,
+					"oldValue": 10,
+					"value": 15,
 					"comments": "Factor for a military cost"
 				},
 				{
 					"id": "WarbandBrawlerCostFactor",
 					"props": {},
-					"oldValue": 0,
-					"value": 15,
+					"oldValue": 15,
+					"value": 22,
 					"comments": "Factor for a military cost"
 				},
 				{
 					"id": "WarbandUnitCostFactor",
 					"props": {},
-					"oldValue": 0,
-					"value": 6,
+					"oldValue": 6,
+					"value": 10,
 					"comments": "Factor for a military cost"
 				},
 				{
