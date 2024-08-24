@@ -2827,12 +2827,12 @@
 							"id": 0
 						},
 						{
-							"val": 7,
+							"val": 5,
 							"id": 3,
 							"comments": "Min Periods in month beetween breeding"
 						},
 						{
-							"val": 9,
+							"val": 6,
 							"id": 12,
 							"comments": "Max Periods in month beetween breeding"
 						},
@@ -69226,10 +69226,10 @@
 					"desc": "Bringers of abundance, the laborers of Heidrun are expert stockbreeders and hold feast after feast with admirable ease. Although they know how to defend what they have, they aren't known for their fierceness in combat.",
 					"bonuses": [
 						{
-							"desc": "Starts with one [Sheep] and can build two [Sheepfold]s.",
+							"desc": "Starts with 2 [Sheep] and can build two [Sheepfold]s.",
 							"values": [
 								{
-									"val": 1,
+									"val": 2,
 									"id": "CStartSheep",
 									"comments": "Nb sheep"
 								}
