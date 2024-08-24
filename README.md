@@ -1,6 +1,8 @@
 # 801Gard
 
-first patch of northgard is ["TetonGard"](https://github.com/tetonbl4/tetongard)
+first patch of Northgard is ["TetonGard"](https://github.com/tetonbl4/tetongard)
+
+There is also my special version of 801gard that has some differences. Just download MyData, rename to "data" and patch it.
 
 2 way to istall 801Gard  //  Есть 2 способа установки патча. Выбирайте, какой вам удобнее.
 
