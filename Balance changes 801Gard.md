@@ -32,6 +32,8 @@ Kingdoms - 250/500/100
 
 -Brawler step cost 15 -> 22
 
+-Altar of kings/Basilica bonus step 200 -> 100 fame
+
 ----------------------------------------------------------------
 # FORGE BALANCED:
 
