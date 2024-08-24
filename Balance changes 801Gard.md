@@ -1,55 +1,15 @@
 # 801Gard v1.1
 
-This patch is based on ["TetonGard"](https://github.com/tetonbl4/tetongard) balance patch. 
+This patch is based on 801Gard.
 
-# CHANGES FROM TETONGARD: // ИЗМЕНЕНИЯ ТЕТОНГАРДА:
+# CHANGES FROM 801GARD: // ИЗМЕНЕНИЯ 801GARD'а:
 ----------------------------------------------------------------
-# STARTING RESOURCES:
 
-Vikings - 100/500/100
+# BEAR
 
-Kingdoms - 250/500/100
+-New starting bonus "GloriousBastard" = "You gain 2 fame per enemy unit killed in a zone with the Maiden. BearMaiden can now go in enemy territory.
 
-# GENERAL CHANGES: 
+-"BearAwake" = your military units gain (0.15->) 0.1 power per (100->) 50 Fame.
 
--Starting population = 6 -> 11 pop
+# Lion
 
--Town hall population = 8 -> 13 pop
-
--Healers/Monks heal speed 0.416 -> 0.7
-
--Townhall gold produce +3 -> +5 gold
-
--Mining speed 0.32 -> 0.5
-
--MaxMilitaryProduct 10 -> 100
-
--Upgraded buildings Upkeep Factor = 1.9 -> 1.0
-
--Unit step cost 6 -> 10
-
--Dragonmen step cost 10 -> 15
-
--Brawler step cost 15 -> 22
-
-# FORGE BALANCED:
-
--Relic forge time 16 -> 10 months.
-
--Instruments forge time 2 -> 1 month
-
--Weapon forge time 3 -> 1 month
-
--Weapon extension forge time 3 -> 1 month (kingdom's weapons)
-
-----------------------------------------------------------------
-# RAT
-
--Starting villagers 8 -> 11 pop
-
-----------------------------------------------------------------
-# DRAGON
-
--Starting villagers -> 8 
-
--Starting slaves -> 4
