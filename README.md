@@ -2,6 +2,8 @@
 
 first patch of Northgard is ["TetonGard"](https://github.com/tetonbl4/tetongard)
 
+Res.pak updates every end of the day, use data if you want to say tuned.
+
 There is also my special version of 801gard that has some differences. Just download MyData, rename to "data" and patch it.
 
 2 way to istall 801Gard  //  Есть 2 способа установки патча. Выбирайте, какой вам удобнее.
