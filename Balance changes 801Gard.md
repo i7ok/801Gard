@@ -12,9 +12,9 @@ Kingdoms - 250/500/100
 
 # GENERAL CHANGES: 
 
--Starting population = 6 -> 11 pop
+- Starting population = 6 -> 11 pop
 
--Town hall population = 8 -> 13 pop
+- Town hall population = 8 -> 13 pop
 
 -Base assign 2 -> 3
 
