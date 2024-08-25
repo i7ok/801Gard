@@ -53968,7 +53968,7 @@
 							"comments": "Adding +x to warband per camps"
 						},
 						{
-							"val": 6,
+							"val": 13,
 							"id": 0,
 							"props": {
 								"type": 1,
@@ -53976,7 +53976,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 6
+									"val": 13
 								}
 							]
 						}
