@@ -1,4 +1,4 @@
-# 801Gard v1.2
+# 801Gard v1.3
 
 This patch is based on ["TetonGard"](https://github.com/tetonbl4/tetongard) balance patch. 
 
@@ -15,6 +15,8 @@ Kingdoms - 250/500/100
 -Starting population = 6 -> 11 pop
 
 -Town hall population = 8 -> 13 pop
+
+-Base assign 2 -> 3
 
 -Healers/Monks heal speed 0.416 -> 0.7
 
@@ -53,6 +55,18 @@ Kingdoms - 250/500/100
 -Amenties Min/Max breeding period from 7/9 to 5/6
 
 ----------------------------------------------------------------
+# RAVEN
+
+-MercenaryCooldown 30 -> 10
+
+----------------------------------------------------------------
+# OX
+
+- Extra Food Consumption 15% -> 10%
+
+- Production Bonus 40% -> 50%
+
+----------------------------------------------------------------
 # RAT
 
 -Starting villagers 8 -> 11 pop
@@ -65,3 +79,14 @@ Kingdoms - 250/500/100
 -Starting villagers -> 8 
 
 -Starting slaves -> 4
+
+-Slave price recution 2 per 15s -> 1 per 5 sec
+
+-Slave hire cooldown 10 -> 1 sec.
+
+-Dragonmen Camp Upgrade cost 10 -> 5 Sone + 5 Souls
+
+----------------------------------------------------------------
+# OWL
+
+-Start win 375 lore (=500 wood if converted)
