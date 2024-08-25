@@ -414,7 +414,7 @@
 					"id": "BaseAssign",
 					"comments": "Base number of assign you can have per player buildings.",
 					"oldValue": 2,
-					"value": 3,
+					"value": 2,
 					"props": {
 						"isInt": true
 					}
