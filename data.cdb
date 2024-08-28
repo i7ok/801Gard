@@ -203,7 +203,7 @@
 						"isInt": true
 					},
 					"oldValue": 5,
-					"value": 1,
+					"value": 4,
 					"comments": "Max Number of zone away from TH that is used to calculate the scouting Time"
 				},
 				{
@@ -2005,7 +2005,7 @@
 					"kind": 0,
 					"values": [
 						{
-							"val": 1.1,
+							"val": 1.2,
 							"id": 0,
 							"type": 0,
 							"canBeBoosted": false
@@ -43817,7 +43817,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 1.5
+									"val": 2.0
 								}
 							]
 						}
@@ -44148,7 +44148,7 @@
 					"cost": [
 						{
 							"r": "Wood",
-							"q": 60
+							"q": 50
 						},
 						{
 							"r": "Money",
@@ -44194,7 +44194,7 @@
 								},
 								{
 									"res": "Stone",
-									"qty": 10
+									"qty": 5
 								}
 							],
 							"props": {}
@@ -51364,7 +51364,7 @@
 					],
 					"values": [
 						{
-							"val": 2,
+							"val": 3,
 							"id": 0,
 							"props": {
 								"type": 1,
@@ -53649,7 +53649,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 15
+									"val": 13
 								}
 							]
 						},
@@ -53809,7 +53809,7 @@
 					],
 					"values": [
 						{
-							"val": 13,
+							"val": 17,
 							"id": 0,
 							"props": {
 								"res": "Population",
@@ -53817,7 +53817,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 15
+									"val": 17
 								}
 							]
 						},
@@ -69008,7 +69008,7 @@
 					"specificTechs": [
 						{
 							"newTech": "Ascetic",
-							"oldTech": "BetterSilo"
+							"oldTech": "Colonize"
 						},
 						{
 							"newTech": "Pillage",
@@ -69564,7 +69564,7 @@
 						},
 						{
 							"newTech": "Harpoons",
-							"oldTech": "BetterSilo"
+							"oldTech": "Colonize"
 						},
 						{
 							"newTech": "WinterFestival",
@@ -70088,7 +70088,7 @@
 						},
 						{
 							"newTech": "BloodTears",
-							"oldTech": "BetterSilo"
+							"oldTech": "Colonize"
 						},
 						{
 							"newTech": "Frenzy",
@@ -70626,7 +70626,7 @@
 						},
 						{
 							"newTech": "InvincibleHero",
-							"oldTech": "Heroes"
+							"oldTech": "MonsterSlayer"
 						},
 						{
 							"newTech": "Warcraft",
@@ -71505,19 +71505,19 @@
 					"specificTechs": [
 						{
 							"newTech": "PreventiveStrike",
-							"oldTech": "Fortnite"
+							"oldTech": "Weaponsmith"
 						},
 						{
 							"newTech": "HolyWar",
-							"oldTech": "Coats"
+							"oldTech": "Fortnite"
 						},
 						{
 							"newTech": "Armory",
-							"oldTech": "MrSmith"
+							"oldTech": "Colonize"
 						},
 						{
 							"newTech": "AngelicProtection",
-							"oldTech": "Appropriation"
+							"oldTech": "Medecine"
 						},
 						{
 							"newTech": "SpecializedTraining",
@@ -71739,7 +71739,7 @@
 							"newTech": "Landlords"
 						},
 						{
-							"oldTech": "Appropriation",
+							"oldTech": "Upgrades",
 							"newTech": "Decima"
 						}
 					],
