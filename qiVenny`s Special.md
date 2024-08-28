@@ -1,6 +1,16 @@
 # My Specially beloved 801Gard v1.1
 
 # CHANGES FROM 801GARD: // ИЗМЕНЕНИЯ 801GARD:
+
+----------------------------------------------------------------
+# GENERAL CHANGES
+
+- Eradication bonus 10 -> 20%
+
+- - Sentry Camp limit 2 -> 3
+
+(P.S. upgraded gives no additiona limit)
+
 ----------------------------------------------------------------
 # WOLF
 
@@ -20,13 +30,6 @@
 # OX
 
 - Unstoppable replaced Monster Slayer
-
-----------------------------------------------------------------
-# KINGDOMS
-
-- Sentry Camp limit 2 -> 3
-
-(P.S. upgraded gives no additiona limit)
 
 ----------------------------------------------------------------
 # LION
