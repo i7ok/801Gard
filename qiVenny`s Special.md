@@ -12,19 +12,6 @@
 -Harpoons replaced Colonization
 
 ----------------------------------------------------------------
-# DRAGON
-
--Relic cooldown 12 -> 6 months
-
--Cost Decrease Slave Price 2 -> 1
-
--Cost Slave Cooldown 10 -> 5
-
--Cost Timer Slave Decrease 15 -> 5
-
--Frenzy replaced "Defensive Strategy"
-
-----------------------------------------------------------------
 # OX
 
 -Unstoppable replaced Monster Slayer
