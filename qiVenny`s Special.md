@@ -7,7 +7,9 @@
 
 - Eradication bonus 10 -> 20%
 
-- - Sentry Camp limit 2 -> 3
+- Brewery upgrade cost 10 -> 5 stone
+
+- Sentry Camp limit 2 -> 3
 
 (P.S. upgraded gives no additiona limit)
 
