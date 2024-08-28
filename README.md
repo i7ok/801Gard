@@ -10,13 +10,13 @@ There is also my special version of 801gard that has some differences. Just down
 
 #  Easy way // Элементарый
 
-Download the archive // Скачать архив [801Gard.rar](https://drive.google.com/file/d/1wAfbMtZq5gnmW9xnP3HHjvZYSeAxEvsl/view?usp=sharing)
+Download the archive // Скачать архив [801Gard.rar](https://drive.google.com/file/d/10qELbToUHFhn2HPo_hzvU8Pl_KY6Lx4T/view?usp=sharing)
    
 Paste the res.pak in folder of the game // Скопировать файл res.pak из архива в папку с игрой
 
 # MegaMind // Сверхинтеллект
 
-Download data.cbd // Скачать файл [data.cbd](https://drive.google.com/file/d/1X0X9S6qOqILTJQOri1KBUzTOHMZ27Efg/view?usp=sharing)
+Download data.cbd // Скачать файл [data.cbd](https://drive.google.com/file/d/1KD9eKgdItA_AFjAIE21vRUPl3n_4_7Zj/view?usp=sharing)
 
 Download // Скачать [QuickBMS](https://aluigi.altervista.org/papers/quickbms.zip) 
    
