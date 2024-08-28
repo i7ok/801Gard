@@ -84,7 +84,7 @@ Kingdoms - 250/500/100
 
 - Slave price recution 2 per 15s -> 1 per 5 sec
 
-- Slave hire cooldown 10 -> 1 sec.
+- Slave hire cooldown 10 -> 5 sec.
 
 - Dragonmen Camp Upgrade cost 10 -> 5 Sone + 5 Souls
 
