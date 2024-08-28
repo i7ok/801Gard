@@ -36,7 +36,9 @@ Kingdoms - 250/500/100
 
 - Altar of kings/Basilica bonus step 200 -> 100 fame
 
-- Max Number of zone away from TH that is used to calculate the scouting Time 5 -> 3
+- Max Number of zone away from TH that is used to calculate the scouting Time 5 -> 4
+
+- Upgraded scout camp scouting speed 1.5 -> 2
 
 ----------------------------------------------------------------
 # FORGE BALANCED:
