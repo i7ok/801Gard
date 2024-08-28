@@ -4,35 +4,40 @@
 ----------------------------------------------------------------
 # WOLF
 
--Ascetic replaced Colonization
+- Ascetic replaced Colonization
 
 ----------------------------------------------------------------
 # BEAR
 
--Harpoons replaced Colonization
+- Harpoons replaced Colonization
+
+----------------------------------------------------------------
+# DRAGON
+
+- Blood, Sweat & Tears replace Colonize
 
 ----------------------------------------------------------------
 # OX
 
--Unstoppable replaced Monster Slayer
+- Unstoppable replaced Monster Slayer
 
 ----------------------------------------------------------------
 # KINGDOMS
 
--Sentry Camp limit 2 -> 3
+- Sentry Camp limit 2 -> 3
 
 (P.S. upgraded gives no additiona limit)
 
 ----------------------------------------------------------------
 # LION
 
--Ost replaced Weaponsmith
+- Ost replaced Weaponsmith
 
--Chanson De Gaste replaced Missi Dominici (Defensive Strategy for Kingdoms)
+- Chanson De Gaste replaced Missi Dominici (Defensive Strategy for Kingdoms)
 
--Miraculous Healing replaced Medicine
+- Miraculous Healing replaced Medicine
 
 ----------------------------------------------------------------
 # STOAT
 
--Decima replaced Carpentry Mastery
+- Decima replaced Carpentry Mastery
