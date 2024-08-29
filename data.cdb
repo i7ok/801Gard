@@ -2005,7 +2005,7 @@
 					"kind": 0,
 					"values": [
 						{
-							"val": 1.2,
+							"val": 1.1,
 							"id": 0,
 							"type": 0,
 							"canBeBoosted": false
@@ -3487,7 +3487,7 @@
 					"desc": "You can assign ::value:: extra [Slave]s to production buildings and ::value1:: more if upgraded.",
 					"values": [
 						{
-							"val": 2,
+							"val": 1,
 							"id": 0
 						},
 						{
@@ -8554,7 +8554,7 @@
 					"texts": [],
 					"values": [
 						{
-							"val": 0.8,
+							"val": 0.7,
 							"id": 0,
 							"props": {}
 						}
@@ -8577,7 +8577,7 @@
 					"texts": [],
 					"values": [
 						{
-							"val": 0.75,
+							"val": 0.7,
 							"id": 0,
 							"props": {}
 						}
@@ -8600,7 +8600,7 @@
 					"texts": [],
 					"values": [
 						{
-							"val": 2,
+							"val": 1.5,
 							"id": 0,
 							"props": {}
 						}
@@ -10239,7 +10239,7 @@
 							"comments": "Maximum duration of the pyre."
 						},
 						{
-							"val": 1.15,
+							"val": 1.1,
 							"id": 1,
 							"props": {},
 							"comments": "Pop Growth per pyre"
@@ -12293,7 +12293,7 @@
 							"comments": "Damage multiplier on buildings"
 						},
 						{
-							"val": 0.3,
+							"val": 0.5,
 							"id": 12,
 							"props": {},
 							"comments": "proc chance"
@@ -24640,7 +24640,7 @@
 					"produce": [
 						{
 							"r": "Prescience",
-							"q": 3,
+							"q": 3.1,
 							"props": {
 								"showUi": true
 							},
@@ -28570,7 +28570,7 @@
 									"reqTech": "Pillage"
 								}
 							],
-							"moveSpeed": 1.9,
+							"moveSpeed": 2,
 							"values": [],
 							"texts": {}
 						}
@@ -44148,7 +44148,7 @@
 					"cost": [
 						{
 							"r": "Wood",
-							"q": 50
+							"q": 60
 						},
 						{
 							"r": "Money",
@@ -44194,7 +44194,7 @@
 								},
 								{
 									"res": "Stone",
-									"qty": 5
+									"qty": 10
 								}
 							],
 							"props": {}
@@ -50647,14 +50647,14 @@
 								},
 								{
 									"res": "Money",
-									"qty": 50
+									"qty": 25
 								},
 								{
 									"res": "Stone",
-									"qty": 5
+									"qty": 10
 								},
 								{
-									"qty": 3,
+									"qty": 1,
 									"res": "Blood"
 								}
 							],
@@ -51364,7 +51364,7 @@
 					],
 					"values": [
 						{
-							"val": 3,
+							"val": 2,
 							"id": 0,
 							"props": {
 								"type": 1,
@@ -69008,7 +69008,7 @@
 					"specificTechs": [
 						{
 							"newTech": "Ascetic",
-							"oldTech": "Colonize"
+							"oldTech": "BetterSilo"
 						},
 						{
 							"newTech": "Pillage",
@@ -69564,7 +69564,7 @@
 						},
 						{
 							"newTech": "Harpoons",
-							"oldTech": "Colonize"
+							"oldTech": "BetterSilo"
 						},
 						{
 							"newTech": "WinterFestival",
@@ -69954,7 +69954,7 @@
 									"id": "CBloodDecreaseSpeedHigher"
 								},
 								{
-									"val": 0.2,
+									"val": 0.3,
 									"id": "CProductionBonusPerSegment"
 								},
 								{
@@ -70088,7 +70088,7 @@
 						},
 						{
 							"newTech": "BloodTears",
-							"oldTech": "Colonize"
+							"oldTech": "BetterSilo"
 						},
 						{
 							"newTech": "Frenzy",
@@ -70626,7 +70626,7 @@
 						},
 						{
 							"newTech": "InvincibleHero",
-							"oldTech": "MonsterSlayer"
+							"oldTech": "Heroes"
 						},
 						{
 							"newTech": "Warcraft",
@@ -71505,19 +71505,19 @@
 					"specificTechs": [
 						{
 							"newTech": "PreventiveStrike",
-							"oldTech": "Weaponsmith"
-						},
-						{
-							"newTech": "HolyWar",
 							"oldTech": "Fortnite"
 						},
 						{
+							"newTech": "HolyWar",
+							"oldTech": "Coats"
+						},
+						{
 							"newTech": "Armory",
-							"oldTech": "Colonize"
+							"oldTech": "MrSmith"
 						},
 						{
 							"newTech": "AngelicProtection",
-							"oldTech": "Medecine"
+							"oldTech": "Appropriation"
 						},
 						{
 							"newTech": "SpecializedTraining",
@@ -71739,7 +71739,7 @@
 							"newTech": "Landlords"
 						},
 						{
-							"oldTech": "Upgrades",
+							"oldTech": "Appropriation",
 							"newTech": "Decima"
 						}
 					],
