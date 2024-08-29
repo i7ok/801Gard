@@ -16,7 +16,7 @@ Paste the res.pak in folder of the game // Скопировать файл res.p
 
 # MegaMind // Сверхинтеллект
 
-Download data.cbd // Скачать файл [data.cbd](https://drive.google.com/file/d/1PmiKsPVns8t2SX_5ncQI6oHYnFGcE9pt/view?usp=sharing)
+Download data.cbd // Скачать файл data.cbd
 
 Download // Скачать [QuickBMS](https://aluigi.altervista.org/papers/quickbms.zip) 
    
