@@ -90,8 +90,6 @@ Kingdoms - 250/500/100
 
 - Slave hire cooldown 10 -> 5 sec.
 
-- Dragonmen Camp Upgrade cost 10 -> 5 Sone + 5 Souls
-
 ----------------------------------------------------------------
 # OWL
 
