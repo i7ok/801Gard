@@ -10,7 +10,7 @@ There is also my special version of 801gard that has some differences. Just down
 
 #  Easy way // Элементарый
 
-Download the archive // Скачать архив [801Gard.rar](https://drive.google.com/file/d/1Og2GDglEgEwVuCXHAjk9bca4NOqJpYYP/view?usp=sharing)
+Download the archive // Скачать архив [801Gard.rar](https://drive.google.com/file/d/1dk_JemlTTVnggbB0E_YoyVpc3loRZP0_/view?usp=sharing)
    
 Paste the res.pak in folder of the game // Скопировать файл res.pak из архива в папку с игрой
 
