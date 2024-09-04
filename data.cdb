@@ -3875,17 +3875,17 @@
 					"desc": "[TrainingCamp]s upgrade and upkeep costs are reduced by ::inv_percent1::.\nEach camp upgrade gives an additional ::percent2:: Attack Power to the associated unit.",
 					"values": [
 						{
-							"val": 0.7,
+							"val": 0.8,
 							"id": 3,
 							"comments": "military building upkeep cost factor"
 						},
 						{
-							"val": 0.7,
+							"val": 0.8,
 							"id": 0,
 							"comments": "training camp upgrade cost"
 						},
 						{
-							"val": 1.025,
+							"val": 1.05,
 							"id": 12,
 							"comments": "% Attack Power bonus on camp upgrade"
 						}
@@ -4180,7 +4180,7 @@
 					"desc": "[Meal] have improved effects.\n[Meal] [Food] cost is reduced by ::percent::.",
 					"values": [
 						{
-							"val": 1.3,
+							"val": 1.4,
 							"id": 0,
 							"comments": "bonus food cost"
 						},
@@ -4575,7 +4575,7 @@
 							"comments": "cd reduc on military upgrades"
 						},
 						{
-							"val": 0.5,
+							"val": 1.0,
 							"id": 3,
 							"comments": "trigger chance bonus"
 						}
@@ -4901,7 +4901,7 @@
 							"comments": "Every X of a resource, you gain (Value3 / resource.tracePrice) per Norn"
 						},
 						{
-							"val": 2,
+							"val": 3,
 							"id": 12,
 							"comments": "Gain ratio"
 						},
@@ -7095,7 +7095,7 @@
 					"texts": [],
 					"values": [
 						{
-							"val": 1,
+							"val": 2,
 							"id": 8,
 							"props": {
 								"dataType": 1
@@ -8283,7 +8283,7 @@
 							"comments": "Fox run speed coeff"
 						},
 						{
-							"val": 0.7,
+							"val": 0.5,
 							"id": 20,
 							"props": {},
 							"comments": "Boar run speed coeff"
@@ -26811,7 +26811,7 @@
 						],
 						"recruitCost": [
 							{
-								"qty": 35,
+								"qty": 40,
 								"res": "Money"
 							},
 							{
@@ -49000,7 +49000,7 @@
 							"cost": [
 								{
 									"res": "Wood",
-									"qty": 100
+									"qty": 50
 								},
 								{
 									"res": "Money",
@@ -50654,8 +50654,8 @@
 									"qty": 10
 								},
 								{
-									"qty": 1,
-									"res": "Blood"
+									"res": "Blood",
+									"qty": 1
 								}
 							],
 							"desc": "Gain +::value::[Warband] and increase your [Dragonmen]s' attack by ::percent_value1::.",
@@ -53809,7 +53809,7 @@
 					],
 					"values": [
 						{
-							"val": 17,
+							"val": 15,
 							"id": 0,
 							"props": {
 								"res": "Population",
@@ -53817,7 +53817,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 17
+									"val": 15
 								}
 							]
 						},
@@ -58448,7 +58448,7 @@
 								"res": "Fame"
 							},
 							{
-								"qty": 75,
+								"qty": 50,
 								"res": "Money"
 							}
 						],
@@ -69293,7 +69293,7 @@
 						},
 						{
 							"newTech": "MoreBuildings",
-							"oldTech": "BetterSilo"
+							"oldTech": "Mining"
 						},
 						{
 							"newTech": "Barricades",
@@ -70527,12 +70527,12 @@
 							"desc": "Your units are tougher, larger and eat more than the other clans, and have a ::percent:: attack power and defense bonus. ",
 							"values": [
 								{
-									"val": 1.15,
+									"val": 1.1,
 									"id": "OxAtkBonus",
 									"comments": "Attack bonus"
 								},
 								{
-									"val": 1.15,
+									"val": 1.1,
 									"id": "OxDefBonus",
 									"comments": "Defense bonus"
 								},
@@ -71440,7 +71440,7 @@
 							"desc": "Killing a foe generates [Faith] if [LionHero] takes part in the fight.",
 							"values": [
 								{
-									"val": 0.33,
+									"val": 0.5,
 									"id": "CFaithWhenKilling",
 									"comments": "Factor between military exp and faith"
 								}
@@ -71459,7 +71459,7 @@
 									"id": "CFaithRecruitFactorMax"
 								},
 								{
-									"val": 1,
+									"val": 1.25,
 									"id": "CFaithRecruitFactorMin"
 								}
 							]
