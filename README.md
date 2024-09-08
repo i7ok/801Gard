@@ -18,9 +18,9 @@ Paste the res.pak in folder of the game // Скопировать файл res.p
 
 Download data.cbd // Скачать файл data.cbd
 
-Download // Скачать [QuickBMS](https://aluigi.altervista.org/papers/quickbms.zip) 
+Download // Скачать [QuickBMS](https://drive.google.com/drive/folders/1QZfT5OBuEWWo8MX5duatxdez9rh39yqN)
    
-Download // Скачать [northgard_res_pak.bms](https://drive.google.com/file/d/1_UqWCUoWvQw_LWCGJVuB0_lAblkzciiG/view?usp=drive_link) 
+Download // Скачать northgard_res_pak.bms
 
 Open reimport.bat // Запустить файл reimport.bat
 
