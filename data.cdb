@@ -8283,7 +8283,7 @@
 							"comments": "Fox run speed coeff"
 						},
 						{
-							"val": 0.5,
+							"val": 0.7,
 							"id": 20,
 							"props": {},
 							"comments": "Boar run speed coeff"
@@ -32809,7 +32809,7 @@
 									"onlyForClan": "Wolf"
 								}
 							],
-							"moveSpeed": 4.6,
+							"moveSpeed": 4.5,
 							"values": [],
 							"texts": {}
 						}
@@ -69288,11 +69288,11 @@
 							"oldTech": "Recruit"
 						},
 						{
-							"newTech": "MoreBuildings",
+							"newTech": "FreeTools",
 							"oldTech": "Colonize"
 						},
 						{
-							"newTech": "FreeTools",
+							"newTech": "MoreBuildings",
 							"oldTech": "Mining"
 						},
 						{
