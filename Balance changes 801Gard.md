@@ -36,8 +36,6 @@ Kingdoms - 250/500/100
 
 - Upgraded scout camp scouting speed 1.5 -> 2
 
-- Scout camp upgrade cost 50/50/5 -> 50/25/0
-
 - Anchorage cost 80 -> 50 wood
 
 ----------------------------------------------------------------
