@@ -16,8 +16,6 @@ Kingdoms - 250/500/100
 
 - Town hall population = 8 -> 13 pop
 
-- Base assign 2 -> 3
-
 - Healers/Monks heal speed 0.416 -> 0.7
 
 - Townhall gold produce +3 -> +5 gold
@@ -28,17 +26,19 @@ Kingdoms - 250/500/100
 
 - Upgraded buildings Upkeep Factor = 1.9 -> 1.0
 
-- Unit step cost 6 -> 10
+- Unit warband step cost 6 -> 10
 
 - Dragonmen step cost 10 -> 15
 
 - Brawler step cost 15 -> 22
 
-- Altar of kings/Basilica bonus step 200 -> 100 fame
-
 - Max Number of zone away from TH that is used to calculate the scouting Time 5 -> 4
 
 - Upgraded scout camp scouting speed 1.5 -> 2
+
+- Scout camp upgrade cost 50/50/5 -> 50/25/0
+
+- Anchorage cost 80 -> 50 wood
 
 ----------------------------------------------------------------
 # FORGE BALANCED:
