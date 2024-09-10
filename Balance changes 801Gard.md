@@ -43,7 +43,7 @@ Kingdoms - 250/500/100
 ----------------------------------------------------------------
 # FORGE BALANCED:
 
-- Relic forge time 16 -> 10 months.
+- Relic forge time 16 -> 8 months.
 
 - Instruments forge time 2 -> 1 month
 
