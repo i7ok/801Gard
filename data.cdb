@@ -1000,7 +1000,7 @@
 					"id": "RelicForgingTime",
 					"comments": "Duration in Month",
 					"oldValue": 16,
-					"value": 10,
+					"value": 8,
 					"props": {
 						"isInt": true
 					}
@@ -12664,7 +12664,7 @@
 					"id": "WhiteSpirit",
 					"values": [
 						{
-							"val": 3,
+							"val": 1,
 							"id": 0,
 							"props": {},
 							"comments": "max wolves"
@@ -12687,11 +12687,11 @@
 						"sfx": "WhiteSpirit"
 					},
 					"name": "Call Wargs pack",
-					"desc": "Summons ::nb:: [WhiteWolf]s.",
+					"desc": "Summons ::nb:: [Warg].",
 					"cost": [
 						{
 							"r": "Food",
-							"q": 50
+							"q": 100
 						}
 					],
 					"flags": 1,
@@ -13010,14 +13010,14 @@
 					"texts": [],
 					"values": [
 						{
-							"val": 12,
+							"val": 6,
 							"id": 8,
 							"props": {
 								"dataType": 1
 							}
 						},
 						{
-							"val": 6,
+							"val":0.1,
 							"id": 0,
 							"props": {},
 							"comments": "month before event"
@@ -13035,6 +13035,12 @@
 					},
 					"name": "Release The Kraken",
 					"desc": "You can release the Kraken.",
+					"cost": [
+						{
+							"r": "Food",
+							"q": 200
+						}
+					],
 					"flags": 1
 				},
 				{
@@ -14974,12 +14980,12 @@
 					"proba": 1,
 					"props": {
 						"notInCampaign": true,
-						"startYearMin": 2,
+						"startYearMin": 0,
 						"sailorsFactor": 1,
 						"type": 0
 					},
 					"announce": "An ominous shade prowls under the sea.",
-					"announcedBefore": 3,
+					"announcedBefore": 1,
 					"icon": "KrakenAttack",
 					"gfx": {
 						"file": "ui/icons/eventIcons.png",
@@ -32266,31 +32272,31 @@
 					"produce": [],
 					"phases": [
 						{
-							"pv": 50,
-							"atk": 11,
+							"pv": 150,
+							"atk": 15,
 							"def": 5,
-							"model": "WhiteWolf",
+							"model": "Warg",
 							"lootTable": [
 								{
-									"qty": 15,
+									"qty": 45,
 									"res": "MilitaryXP"
 								},
 								{
-									"qty": 15,
+									"qty": 45,
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 15,
+									"qty": 45,
 									"res": "Meat",
 									"onlyForClan": "Wolf"
 								}
 							],
+							"moveSpeed": 4.0,
 							"values": [],
 							"texts": {}
 						}
 					],
 					"props": {
-						"runSpeedCoeff": 3,
 						"preCache": [
 							1,
 							"Wolf"
@@ -43834,11 +43840,7 @@
 								},
 								{
 									"res": "Money",
-									"qty": 50
-								},
-								{
-									"res": "Stone",
-									"qty": 5
+									"qty": 25
 								}
 							],
 							"desc": "Increases all your [Scout]s' scouting speed by ::percent:: and let them go into enemy territory.\n\nThey improve relations faster with clans and neutral factions.",
@@ -44066,7 +44068,7 @@
 							"cost": [
 								{
 									"res": "Wood",
-									"qty": 100
+									"qty": 50
 								},
 								{
 									"res": "Money",
@@ -44186,7 +44188,7 @@
 							"cost": [
 								{
 									"res": "Wood",
-									"qty": 100
+									"qty": 50
 								},
 								{
 									"res": "Money",
@@ -44194,7 +44196,7 @@
 								},
 								{
 									"res": "Stone",
-									"qty": 10
+									"qty": 5
 								}
 							],
 							"props": {}
@@ -47021,7 +47023,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 1.5
+									"val": 2.0
 								}
 							]
 						}
@@ -47035,11 +47037,7 @@
 								},
 								{
 									"res": "Money",
-									"qty": 50
-								},
-								{
-									"res": "Stone",
-									"qty": 5
+									"qty": 25
 								}
 							],
 							"desc": "Increases all your [Scout02]s' scouting speed by ::percent:: and let them go into enemy territory.\n\nThey improve relations faster with clans and neutral factions.",
@@ -48297,7 +48295,7 @@
 					"cost": [
 						{
 							"r": "Wood",
-							"q": 80
+							"q": 50
 						}
 					],
 					"upgrades": [
@@ -59244,7 +59242,7 @@
 					},
 					"texts": {
 						"name": "Horn of Managarm",
-						"desc": "Summons up to 3 [WhiteWolf]s under your control.",
+						"desc": "Summons a mighty [Warg] under your control.",
 						"plural": {
 							"name": "Horn of Managarms"
 						}
@@ -59911,7 +59909,7 @@
 					"ingredients": [],
 					"values": [
 						{
-							"val": 4,
+							"val": 1,
 							"id": 2,
 							"props": {
 								"type": 1
@@ -68985,7 +68983,7 @@
 							},
 							{
 								"type": 2,
-								"id": "WhiteWolf"
+								"id": "Warg"
 							}
 						]
 					},
