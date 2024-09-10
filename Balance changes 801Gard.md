@@ -100,7 +100,7 @@ Kingdoms - 250/500/100
 
 - Relic: Cooldown 12 -> 6 months
 
-- Relic: month before event 6 -> 3 months
+- Relic: month before event 6 -> 0 months
 
 ----------------------------------------------------------------
 # SQUIRREL
