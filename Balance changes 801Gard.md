@@ -52,6 +52,11 @@ Kingdoms - 250/500/100
 - Weapon extension forge time 3 -> 1 month (kingdom's weapons)
 
 ----------------------------------------------------------------
+# WOLF
+
+- Relic: Spawn 1 mighty Warg for 100 food.
+
+----------------------------------------------------------------
 # GOAT
 
 - Start with 2 sheeps
@@ -89,6 +94,18 @@ Kingdoms - 250/500/100
 - Slave price recution 2 per 15s -> 1 per 5 sec
 
 - Slave hire cooldown 10 -> 5 sec.
+
+----------------------------------------------------------------
+# KRAKEN 
+
+- Relic: Cooldown 12 -> 6 months
+
+- Relic: month before event 6 -> 3 months
+
+----------------------------------------------------------------
+# SQUIRREL
+
+- Relic: The period in month for the enchanted expansion = 4 -> 2 months
 
 ----------------------------------------------------------------
 # OWL
