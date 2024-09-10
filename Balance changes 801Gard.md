@@ -1,4 +1,4 @@
-# 801Gard v1.3
+# 801Gard v1.4
 
 This patch is based on ["TetonGard"](https://github.com/tetonbl4/tetongard) balance patch. 
 
@@ -101,6 +101,8 @@ Kingdoms - 250/500/100
 - Relic: Cooldown 12 -> 6 months
 
 - Relic: month before event 6 -> 0 months
+
+- Release Kraken cost 0 -> 200 food
 
 ----------------------------------------------------------------
 # SQUIRREL
