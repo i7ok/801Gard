@@ -43840,7 +43840,11 @@
 								},
 								{
 									"res": "Money",
-									"qty": 25
+									"qty": 50
+								},
+								{
+									"res": "Stone",
+									"qty": 5
 								}
 							],
 							"desc": "Increases all your [Scout]s' scouting speed by ::percent:: and let them go into enemy territory.\n\nThey improve relations faster with clans and neutral factions.",
@@ -47037,7 +47041,11 @@
 								},
 								{
 									"res": "Money",
-									"qty": 25
+									"qty": 50
+								},
+								{
+									"res": "Stone",
+									"qty": 5
 								}
 							],
 							"desc": "Increases all your [Scout02]s' scouting speed by ::percent:: and let them go into enemy territory.\n\nThey improve relations faster with clans and neutral factions.",
