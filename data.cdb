@@ -3605,7 +3605,7 @@
 							"id": 12
 						},
 						{
-							"val": 1.1,
+							"val": 1.05,
 							"id": 13
 						}
 					],
@@ -3658,7 +3658,7 @@
 					"desc": "Relics don't use a building slot. You can build an additional relic (max 1 relic per zone).\nForging a relic takes ::inv_percent:: less time to forge.",
 					"values": [
 						{
-							"val": 0.5,
+							"val": 0.65,
 							"id": 0,
 							"type": 0,
 							"canBeBoosted": true,
@@ -27093,7 +27093,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 30,
+									"qty": 25,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -27176,7 +27176,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 5,
+									"qty": 25,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -27259,7 +27259,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 5,
+									"qty": 25,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -27342,7 +27342,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 5,
+									"qty": 25,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -70231,7 +70231,7 @@
 					"specificTechs": [
 						{
 							"newTech": "Metalcraft",
-							"oldTech": "Recruit"
+							"oldTech": "Lumber"
 						},
 						{
 							"newTech": "BFTower",
@@ -70243,7 +70243,7 @@
 						},
 						{
 							"newTech": "AncestralInfluence",
-							"oldTech": "SlotGrowth"
+							"oldTech": "Recruit"
 						},
 						{
 							"newTech": "QualityLife",
@@ -70316,7 +70316,7 @@
 							"desc": "On non-coastal zones, colonization and building costs are ::percent:: more expensive, and units' attack power is reduced by ::inv_percent1::.",
 							"values": [
 								{
-									"val": 1.5,
+									"val": 1.2,
 									"id": "CNonCoastalCost"
 								},
 								{
