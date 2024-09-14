@@ -338,7 +338,7 @@
 						"isInt": true
 					},
 					"oldValue": 0,
-					"value": 10,
+					"value": 30,
 					"comments": "Time in second per merc"
 				},
 				{
@@ -32272,10 +32272,10 @@
 					"produce": [],
 					"phases": [
 						{
-							"pv": 150,
-							"atk": 15,
-							"def": 5,
-							"model": "Warg",
+							"pv": 70,
+							"atk": 14,
+							"def": 8,
+							"model": "WhiteWolf",
 							"lootTable": [
 								{
 									"qty": 45,
