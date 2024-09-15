@@ -12687,7 +12687,7 @@
 						"sfx": "WhiteSpirit"
 					},
 					"name": "Call Wargs pack",
-					"desc": "Summons ::nb:: [Warg].",
+					"desc": "Summons ::nb:: [whitewolf].",
 					"cost": [
 						{
 							"r": "Food",
@@ -13017,7 +13017,7 @@
 							}
 						},
 						{
-							"val":0.1,
+							"val": 1.0,
 							"id": 0,
 							"props": {},
 							"comments": "month before event"
