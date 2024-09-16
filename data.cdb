@@ -5296,12 +5296,12 @@
 							"id": 8
 						},
 						{
-							"val": 0.001,
+							"val": 0.0025,
 							"comments": "Power bonus",
 							"id": 7
 						},
 						{
-							"val": 4,
+							"val": 10,
 							"comments": "Fame",
 							"id": 9
 						}
@@ -49693,7 +49693,7 @@
 					},
 					"values": [
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 2,
 							"props": {
 								"type": 0
@@ -49719,7 +49719,7 @@
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 12,
 							"props": {
 								"type": 0
@@ -49732,7 +49732,7 @@
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 14,
 							"props": {
 								"type": 0
@@ -49745,7 +49745,7 @@
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 15,
 							"props": {
 								"type": 0
@@ -49771,7 +49771,7 @@
 							]
 						},
 						{
-							"val": 2,
+							"val": 10,
 							"id": 17,
 							"props": {
 								"type": 0
@@ -52679,7 +52679,7 @@
 					],
 					"values": [
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 2,
 							"props": {
 								"type": 0
@@ -52687,7 +52687,7 @@
 							"comments": "Food bonus",
 							"upgradedVals": [
 								{
-									"val": 0.01
+									"val": 0.05
 								}
 							]
 						},
@@ -52705,7 +52705,7 @@
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 12,
 							"props": {
 								"type": 0
@@ -52713,12 +52713,12 @@
 							"comments": "Wood bonus",
 							"upgradedVals": [
 								{
-									"val": 0.01
+									"val": 0.05
 								}
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 14,
 							"props": {
 								"type": 0
@@ -52726,12 +52726,12 @@
 							"comments": "Money bonus",
 							"upgradedVals": [
 								{
-									"val": 0.01
+									"val": 0.05
 								}
 							]
 						},
 						{
-							"val": 0.01,
+							"val": 0.05,
 							"id": 15,
 							"props": {
 								"type": 0
@@ -52739,12 +52739,12 @@
 							"comments": "Lore bonus",
 							"upgradedVals": [
 								{
-									"val": 0.01
+									"val": 0.05
 								}
 							]
 						},
 						{
-							"val": 2,
+							"val": 10,
 							"id": 17,
 							"props": {
 								"type": 0
@@ -52752,7 +52752,7 @@
 							"comments": "Fame step",
 							"upgradedVals": [
 								{
-									"val": 1
+									"val": 10
 								}
 							]
 						},
