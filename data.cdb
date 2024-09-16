@@ -964,7 +964,7 @@
 					"id": "RelicIron",
 					"comments": "Quantity of Iron needed to forge a Relic",
 					"oldValue": 10,
-					"value": 0,
+					"value": 10,
 					"props": {
 						"isInt": true
 					}
@@ -1000,7 +1000,7 @@
 					"id": "RelicForgingTime",
 					"comments": "Duration in Month",
 					"oldValue": 16,
-					"value": 1,
+					"value": 8,
 					"props": {
 						"isInt": true
 					}
