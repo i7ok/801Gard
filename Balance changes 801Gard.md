@@ -52,7 +52,7 @@ Kingdoms - 250/500/100
 ----------------------------------------------------------------
 # WOLF
 
-- Relic: Spawn 1 mighty Warg for 100 food.
+- Relic: Spawn 1 mighty Wolf for 100 food. cooldown 2 -> 1 month.
 
 ----------------------------------------------------------------
 # GOAT
@@ -60,11 +60,6 @@ Kingdoms - 250/500/100
 - Start with 2 sheeps
 
 - Amenties Min/Max breeding period from 7/9 to 5/6
-
-----------------------------------------------------------------
-# RAVEN
-
-- MercenaryCooldown 30 -> 10
 
 ----------------------------------------------------------------
 # OX
