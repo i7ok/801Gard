@@ -12,6 +12,8 @@ Kingdoms - 250/500/100
 
 # GENERAL CHANGES: 
 
+- Empty zones around Townhall 2 -> 3
+
 - Starting population = 6 -> 11 pop
 
 - Town hall population = 8 -> 13 pop
