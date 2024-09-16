@@ -40,6 +40,8 @@ Kingdoms - 250/500/100
 
 - Anchorage cost 80 -> 50 wood
 
+- Altar bonus 1 -> 0.01, with step 200 -> 2
+
 ----------------------------------------------------------------
 # FORGE BALANCED:
 
