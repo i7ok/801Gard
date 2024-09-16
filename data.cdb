@@ -964,7 +964,7 @@
 					"id": "RelicIron",
 					"comments": "Quantity of Iron needed to forge a Relic",
 					"oldValue": 10,
-					"value": 10,
+					"value": 0,
 					"props": {
 						"isInt": true
 					}
@@ -1000,7 +1000,7 @@
 					"id": "RelicForgingTime",
 					"comments": "Duration in Month",
 					"oldValue": 16,
-					"value": 8,
+					"value": 1,
 					"props": {
 						"isInt": true
 					}
@@ -1038,7 +1038,7 @@
 						"isInt": true
 					},
 					"oldValue": 16,
-					"value": 3,
+					"value": 1,
 					"comments": "Duration in Month"
 				},
 				{
@@ -1403,7 +1403,7 @@
 					"value": [
 						1,
 						2,
-						2,
+						3,
 						4
 					],
 					"comments": "Per Zone + Per difficulty (Easy, Medium, Hard, Extreme)"
@@ -1415,7 +1415,7 @@
 					"value": [
 						60,
 						100,
-						125,
+						165,
 						215
 					],
 					"comments": "Per difficulty (Easy, Medium, Hard, Extreme)"
@@ -1427,8 +1427,8 @@
 					"value": [
 						35,
 						40,
-						45,
-						45
+						75,
+						100
 					],
 					"comments": "Per difficulty (Easy, Medium, Hard, Extreme)"
 				},
@@ -1439,8 +1439,8 @@
 					"value": [
 						0,
 						1,
-						1,
-						1
+						2,
+						3
 					],
 					"comments": "Per difficulty (Easy, Medium, Hard, Extreme)"
 				},
@@ -1486,7 +1486,7 @@
 						"isInt": true
 					},
 					"oldValue": 0,
-					"value": 2
+					"value": 3
 				}
 			],
 			"props": {
@@ -5292,16 +5292,16 @@
 					},
 					"values": [
 						{
-							"val": 3,
+							"val": 2,
 							"id": 8
 						},
 						{
-							"val": 0.015,
+							"val": 0.001,
 							"comments": "Power bonus",
 							"id": 7
 						},
 						{
-							"val": 100,
+							"val": 4,
 							"comments": "Fame",
 							"id": 9
 						}
@@ -6013,7 +6013,7 @@
 					"desc": "[Comfort] is increased by +::value:: in all of your zones.",
 					"values": [
 						{
-							"val": 1,
+							"val": 2,
 							"id": 0
 						}
 					],
@@ -12670,7 +12670,7 @@
 							"comments": "max wolves"
 						},
 						{
-							"val": 2,
+							"val": 1,
 							"id": 8,
 							"props": {
 								"dataType": 1
@@ -12687,7 +12687,7 @@
 						"sfx": "WhiteSpirit"
 					},
 					"name": "Call Wargs pack",
-					"desc": "Summons ::nb:: [whitewolf].",
+					"desc": "Summons ::nb:: [WhiteWolf].",
 					"cost": [
 						{
 							"r": "Food",
@@ -49693,7 +49693,7 @@
 					},
 					"values": [
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 2,
 							"props": {
 								"type": 0
@@ -49719,7 +49719,7 @@
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 12,
 							"props": {
 								"type": 0
@@ -49732,7 +49732,7 @@
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 14,
 							"props": {
 								"type": 0
@@ -49745,7 +49745,7 @@
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 15,
 							"props": {
 								"type": 0
@@ -49771,7 +49771,7 @@
 							]
 						},
 						{
-							"val": 200,
+							"val": 2,
 							"id": 17,
 							"props": {
 								"type": 0
@@ -52679,7 +52679,7 @@
 					],
 					"values": [
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 2,
 							"props": {
 								"type": 0
@@ -52687,7 +52687,7 @@
 							"comments": "Food bonus",
 							"upgradedVals": [
 								{
-									"val": 1
+									"val": 0.01
 								}
 							]
 						},
@@ -52705,7 +52705,7 @@
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 12,
 							"props": {
 								"type": 0
@@ -52713,12 +52713,12 @@
 							"comments": "Wood bonus",
 							"upgradedVals": [
 								{
-									"val": 1
+									"val": 0.01
 								}
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 14,
 							"props": {
 								"type": 0
@@ -52726,12 +52726,12 @@
 							"comments": "Money bonus",
 							"upgradedVals": [
 								{
-									"val": 1
+									"val": 0.01
 								}
 							]
 						},
 						{
-							"val": 1,
+							"val": 0.01,
 							"id": 15,
 							"props": {
 								"type": 0
@@ -52739,12 +52739,12 @@
 							"comments": "Lore bonus",
 							"upgradedVals": [
 								{
-									"val": 1
+									"val": 0.01
 								}
 							]
 						},
 						{
-							"val": 200,
+							"val": 2,
 							"id": 17,
 							"props": {
 								"type": 0
@@ -52752,7 +52752,7 @@
 							"comments": "Fame step",
 							"upgradedVals": [
 								{
-									"val": 100
+									"val": 1
 								}
 							]
 						},
@@ -53247,7 +53247,7 @@
 					"id": "TownHall",
 					"props": {
 						"trainTo": "Villager",
-						"buildTime": 20,
+						"buildTime": 15,
 						"canStore": [
 							{
 								"res": "Food",
@@ -53289,7 +53289,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 1.2
+									"val": 1.5
 								}
 							]
 						}
@@ -59250,7 +59250,7 @@
 					},
 					"texts": {
 						"name": "Horn of Managarm",
-						"desc": "Summons a mighty [Warg] under your control.",
+						"desc": "Summons a mighty [WhiteWolf] under your control.",
 						"plural": {
 							"name": "Horn of Managarms"
 						}
@@ -68991,7 +68991,7 @@
 							},
 							{
 								"type": 2,
-								"id": "Warg"
+								"id": "WhiteWolf"
 							}
 						]
 					},
