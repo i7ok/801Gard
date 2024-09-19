@@ -1,4 +1,4 @@
-# 801Gard v1.4
+# 801Gard v1.5
 
 This patch is based on ["TetonGard"](https://github.com/tetonbl4/tetongard) balance patch. 
 
