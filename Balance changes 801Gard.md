@@ -18,9 +18,11 @@ Kingdoms - 250/500/100
 
 - Town hall population = 8 -> 13 pop
 
-- Healers/Monks heal speed 0.416 -> 0.7
+- upgraded Town hall population speed = 1.2 -> 1.5 pop
 
 - Townhall gold produce +3 -> +5 gold
+
+- Healers/Monks heal speed 0.416 -> 0.7
 
 - Mining speed 0.32 -> 0.5
 
