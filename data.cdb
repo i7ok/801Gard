@@ -7215,13 +7215,13 @@
 							"comments": "Defense bonus during cast time"
 						},
 						{
-							"val": 0.25,
+							"val": 0.5,
 							"id": 0,
 							"props": {},
 							"comments": "Attack Bonus with Fame 2"
 						},
 						{
-							"val": 0.5,
+							"val": 1.0,
 							"id": 1,
 							"props": {},
 							"comments": "Factor Loot "
@@ -53186,7 +53186,7 @@
 					"id": "TownHall",
 					"props": {
 						"trainTo": "Villager",
-						"buildTime": 20,
+						"buildTime": 15,
 						"canStore": [
 							{
 								"res": "Food",
