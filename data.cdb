@@ -964,7 +964,7 @@
 					"id": "RelicIron",
 					"comments": "Quantity of Iron needed to forge a Relic",
 					"oldValue": 10,
-					"value": 10,
+					"value": 0,
 					"props": {
 						"isInt": true
 					}
@@ -1000,7 +1000,7 @@
 					"id": "RelicForgingTime",
 					"comments": "Duration in Month",
 					"oldValue": 16,
-					"value": 8,
+					"value": 1,
 					"props": {
 						"isInt": true
 					}
@@ -12928,6 +12928,13 @@
 					"name": "Spike Trap",
 					"flags": 1,
 					"desc": "Place a [Trap] in a non-enemy zone. Activate the trap to reveal spikes that damage and slow down the enemy as long as they stay within. Lasts ::value1:: seconds.",
+					"cost": [
+						{
+							"r": "HuntTrophy",
+							"q": 50
+						}
+					],
+					"flags": 1,
 					"texts": []
 				},
 				{
