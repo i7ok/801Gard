@@ -38,7 +38,7 @@ Kingdoms - 350/500/100
 
 - Upgraded scout camp scouting speed 1.5 -> 2
 
-- Altar bonus 1 -> 0.01, with step 200 -> 2
+- Altar bonus 1 -> 0.05, with step 200 -> 10
 
 - Anchorage cost 80 -> 50 wood
 
