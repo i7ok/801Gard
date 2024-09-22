@@ -239,7 +239,7 @@
 					},
 					"oldValue": 0,
 					"value": [
-						250,
+						350,
 						500,
 						100
 					],
@@ -809,7 +809,7 @@
 					"id": "FameLevels",
 					"oldValue": 0,
 					"value": [
-						200,
+						20,
 						500,
 						1000
 					],
@@ -964,7 +964,7 @@
 					"id": "RelicIron",
 					"comments": "Quantity of Iron needed to forge a Relic",
 					"oldValue": 10,
-					"value": 10,
+					"value": 5,
 					"props": {
 						"isInt": true
 					}
@@ -1427,7 +1427,7 @@
 					"value": [
 						35,
 						40,
-						75,
+						55,
 						100
 					],
 					"comments": "Per difficulty (Easy, Medium, Hard, Extreme)"
@@ -3393,6 +3393,7 @@
 						}
 					]
 				},
+				
 				{
 					"id": "Rapacious",
 					"name": "Rapacious Exploitation",
@@ -4304,7 +4305,7 @@
 					"desc": "Your wounded units cost ::percent:: [Money] to train as military units.",
 					"values": [
 						{
-							"val": 0.7,
+							"val": 0.8,
 							"id": 0,
 							"comments": "Krown cost reduction"
 						}
@@ -4324,12 +4325,12 @@
 					"desc": "Wounded units move and attack ::percent:: faster.",
 					"values": [
 						{
-							"val": 1.2,
+							"val": 1.3,
 							"id": 0,
 							"comments": "Move speed"
 						},
 						{
-							"val": 1.2,
+							"val": 1.3,
 							"id": 3,
 							"comments": "Attack speed"
 						}
@@ -5316,11 +5317,11 @@
 					},
 					"values": [
 						{
-							"val": 1,
+							"val": 2,
 							"id": 0
 						},
 						{
-							"val": 1.2,
+							"val": 2.0,
 							"id": 3
 						}
 					]
@@ -5477,7 +5478,7 @@
 							"id": 12
 						},
 						{
-							"val": 2,
+							"val": 1,
 							"id": 4,
 							"comments": "Kraken feast duration"
 						},
@@ -5590,7 +5591,7 @@
 					"desc": "You receive [Ingredients] of each type by boat and you increase your ingredient storage by ::value::.\nYou can make Meals for your allies (effects are ::percent2:: less effective for allies).\nYou unlock Gift routes at the [TradingPost].",
 					"values": [
 						{
-							"val": 200,
+							"val": 500,
 							"id": 0,
 							"comments": "Quantity of ingredient you receive by boat"
 						},
@@ -7852,8 +7853,12 @@
 					"desc": "Summon [RevivedCarcass]. \nIgnites the [Purification]s for ::value4:: months.",
 					"cost": [
 						{
-							"r": "Food",
-							"q": 300
+							"r": "Wood",
+							"q": 200
+						},
+						{
+							"r": "MilitaryXP",
+							"q": 100
 						}
 					],
 					"flags": 1
@@ -12687,10 +12692,14 @@
 						"sfx": "WhiteSpirit"
 					},
 					"name": "Call Wargs pack",
-					"desc": "Summons ::nb:: [WhiteWolf].",
+					"desc": "Summons a [WhiteWolf].",
 					"cost": [
 						{
 							"r": "Food",
+							"q": 100
+						},
+						{
+							"r": "MilitaryXP",
 							"q": 100
 						}
 					],
@@ -12740,9 +12749,14 @@
 					"desc": "Summons a [UndeadGiantDragon].",
 					"cost": [
 						{
-							"r": "Krowns",
-							"q": 200
+							"r": "Money",
+							"q": 150
+						},						
+						{
+							"r": "MilitaryXP",
+							"q": 100
 						}
+
 					],
 					"flags": 1
 				},
@@ -13038,7 +13052,11 @@
 					"cost": [
 						{
 							"r": "Food",
-							"q": 200
+							"q": 100
+						},
+						{
+							"r": "MilitaryXP",
+							"q": 50
 						}
 					],
 					"flags": 1
@@ -14976,7 +14994,7 @@
 					"id": "KrakenAttack",
 					"name": "Kraken Attack",
 					"desc": "The Kraken will prowl the shores, if too many ships are at sea they will all face its wrath.",
-					"duration": 2,
+					"duration": 1,
 					"proba": 1,
 					"props": {
 						"notInCampaign": true,
@@ -29540,83 +29558,6 @@
 					"types": 32
 				},
 				{
-					"id": "Hildegard",
-					"franceTexts": {},
-					"produce": [
-						{
-							"r": "Wood",
-							"q": 0,
-							"props": {
-								"showUi": false,
-								"needLink": true
-							},
-							"req": {
-								"buildings": [
-									{
-										"building": "BrambleFieldCampaign"
-									}
-								]
-							}
-						}
-					],
-					"phases": [
-						{
-							"lootTable": [
-								{
-									"qty": 100,
-									"res": "MilitaryXP"
-								},
-								{
-									"qty": 0,
-									"res": "HuntTrophy"
-								},
-								{
-									"qty": 20,
-									"res": "Money",
-									"reqTech": "Pillage"
-								}
-							],
-							"pv": 75,
-							"atk": 15,
-							"def": 10,
-							"model": "Hildegard",
-							"values": [],
-							"texts": {},
-							"moveSpeed": 1.9
-						}
-					],
-					"props": {
-						"clanWarchief": "Lion",
-						"value": 0.5,
-						"recruitCost": [
-							{
-								"qty": 150,
-								"res": "Money"
-							},
-							{
-								"qty": 5,
-								"res": "Iron"
-							}
-						]
-					},
-					"flags": 8193,
-					"editor": {
-						"name": "Warchief [Hildegard]"
-					},
-					"gfx": {
-						"file": "ui/units/unitsIcons02.png",
-						"size": 42,
-						"x": 9,
-						"y": 0
-					},
-					"texts": {
-						"name": "Hildegard",
-						"desc": "Pious and heroic, Hildegard emerged from the shadows after a vision of Ragnarök came to her. Determined to drive back this unholy menace, she also intends to unify Neustria and put an end to her brothers' incessant feuds.",
-						"flavor": "Neustria shall bathe in sacred light again."
-					},
-					"types": 32
-				},
-				{
 					"id": "Carloman",
 					"franceTexts": {},
 					"produce": [],
@@ -32291,7 +32232,7 @@
 									"onlyForClan": "Wolf"
 								}
 							],
-							"moveSpeed": 4.0,
+							"moveSpeed": 3.0,
 							"values": [],
 							"texts": {}
 						}
@@ -33809,9 +33750,9 @@
 					"produce": [],
 					"phases": [
 						{
-							"pv": 110,
-							"atk": 12,
-							"def": 16,
+							"pv": 100,
+							"atk": 10,
+							"def": 14,
 							"model": "RevivedCarcass",
 							"lootTable": [
 								{
@@ -46790,7 +46731,7 @@
 							},
 							"upgradedVals": [
 								{
-									"val": 1.2
+									"val": 1.4
 								}
 							]
 						},
@@ -51370,7 +51311,7 @@
 					],
 					"values": [
 						{
-							"val": 2,
+							"val": 3,
 							"id": 0,
 							"props": {
 								"type": 1,
@@ -53247,7 +53188,7 @@
 					"id": "TownHall",
 					"props": {
 						"trainTo": "Villager",
-						"buildTime": 15,
+						"buildTime": 20,
 						"canStore": [
 							{
 								"res": "Food",
@@ -69228,7 +69169,7 @@
 					"desc": "Bringers of abundance, the laborers of Heidrun are expert stockbreeders and hold feast after feast with admirable ease. Although they know how to defend what they have, they aren't known for their fierceness in combat.",
 					"bonuses": [
 						{
-							"desc": "Starts with 2 [Sheep] and can build two [Sheepfold]s.",
+							"desc": "Starts with 2 [Sheep]s and can build two [Sheepfold]s.",
 							"values": [
 								{
 									"val": 2,
@@ -70488,12 +70429,12 @@
 									"comments": "Delay in second after a militaryXP threshold is reached."
 								},
 								{
-									"val": 2,
+									"val": 1,
 									"id": "OxMinCooldown",
 									"comments": "Minimum cooldown between artifact in month"
 								},
 								{
-									"val": 5,
+									"val": 3,
 									"id": "OxMaxCooldown",
 									"comments": "Maximum cooldown between artifact in month"
 								},
@@ -70543,7 +70484,7 @@
 									"comments": "Defense bonus"
 								},
 								{
-									"val": 1.15,
+									"val": 1.3,
 									"id": "OxScale",
 									"comments": "Additional scale"
 								},
@@ -70572,7 +70513,7 @@
 							"desc": "[OxThrone] produce +::value:: [Lore] while [OxHero] is not summoned.",
 							"values": [
 								{
-									"val": 3,
+									"val": 6,
 									"id": "OxThroneProduction",
 									"comments": "Production OxThrone"
 								}
