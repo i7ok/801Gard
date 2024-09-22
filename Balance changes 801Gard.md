@@ -8,7 +8,7 @@ This patch is based on ["TetonGard"](https://github.com/tetonbl4/tetongard) bala
 
 Vikings - 100/500/100
 
-Kingdoms - 250/500/100
+Kingdoms - 350/500/100
 
 # GENERAL CHANGES: 
 
@@ -16,9 +16,7 @@ Kingdoms - 250/500/100
 
 - Starting population = 6 -> 11 pop
 
-- Town hall population = 8 -> 13 pop
-
-- upgraded Town hall population speed = 1.2 -> 1.5 pop
+- Townhall population = 8 -> 13 pop
 
 - Townhall gold produce +3 -> +5 gold
 
@@ -40,9 +38,11 @@ Kingdoms - 250/500/100
 
 - Upgraded scout camp scouting speed 1.5 -> 2
 
+- Altar bonus 1 -> 0.01, with step 200 -> 2
+
 - Anchorage cost 80 -> 50 wood
 
-- Altar bonus 1 -> 0.01, with step 200 -> 2
+- Sentry camp warband limit 2 -> 3
 
 ----------------------------------------------------------------
 # FORGE BALANCED:
@@ -61,6 +61,11 @@ Kingdoms - 250/500/100
 - Relic: Spawn 1 mighty Wolf for 100 food. cooldown 2 -> 1 month.
 
 ----------------------------------------------------------------
+# BOAR
+
+- 200 Fame gives 1 -> 2 Knowledge
+
+----------------------------------------------------------------
 # GOAT
 
 - Start with 2 sheeps
@@ -74,7 +79,7 @@ Kingdoms - 250/500/100
 
 - Production Bonus 40% -> 50%
 
-- Throne lore production 2 -> 3
+- Throne lore production 2 -> 6
 
 ----------------------------------------------------------------
 # RAT
@@ -82,6 +87,14 @@ Kingdoms - 250/500/100
 - Starting villagers 8 -> 11 pop
 
 - Healing buffed 0.7 -> 1
+
+- Enrollment -30% -> 20% cost reduction
+
+- Pain Suppressant 20% -> 30% move and attack speed
+
+- Garm summon cost 300/0 -> 150/100 food/MilitaryXP
+
+- Garm is weaker
 
 ----------------------------------------------------------------
 # DRAGON
@@ -94,19 +107,25 @@ Kingdoms - 250/500/100
 
 - Slave hire cooldown 10 -> 5 sec.
 
+- Draconic Jotunn summon cost 150/100 food/militaryXP
+
 ----------------------------------------------------------------
 # KRAKEN 
 
 - Relic: Cooldown 12 -> 6 months
 
-- Relic: month before event 6 -> 0 months
+- Relic: month before event 6 -> 1 months
 
-- Release Kraken cost 0 -> 200 food
+- Release Kraken cost 0 -> 100/100 food/MilitaryXP
+
+- Kraken feasts duration 2 -> 1 month, Kraken attack duration 2 -> 1 month
 
 ----------------------------------------------------------------
 # SQUIRREL
 
 - Relic: The period in month for the enchanted expansion = 4 -> 2 months
+
+- 200 Fame gives 200 -> 500 resources
 
 ----------------------------------------------------------------
 # OWL
