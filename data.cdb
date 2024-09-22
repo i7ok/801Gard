@@ -964,7 +964,7 @@
 					"id": "RelicIron",
 					"comments": "Quantity of Iron needed to forge a Relic",
 					"oldValue": 10,
-					"value": 5,
+					"value": 10,
 					"props": {
 						"isInt": true
 					}
