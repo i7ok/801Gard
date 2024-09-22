@@ -116,7 +116,7 @@ Kingdoms - 350/500/100
 
 - Relic: month before event 6 -> 1 months
 
-- Release Kraken cost 0 -> 100/100 food/MilitaryXP
+- Release Kraken cost 0 -> 150/50 food/MilitaryXP
 
 - Kraken feasts duration 2 -> 1 month, Kraken attack duration 2 -> 1 month
 
