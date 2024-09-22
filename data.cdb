@@ -809,7 +809,7 @@
 					"id": "FameLevels",
 					"oldValue": 0,
 					"value": [
-						20,
+						200,
 						500,
 						1000
 					],
@@ -3393,7 +3393,6 @@
 						}
 					]
 				},
-				
 				{
 					"id": "Rapacious",
 					"name": "Rapacious Exploitation",
@@ -7854,7 +7853,7 @@
 					"cost": [
 						{
 							"r": "Wood",
-							"q": 200
+							"q": 150
 						},
 						{
 							"r": "MilitaryXP",
