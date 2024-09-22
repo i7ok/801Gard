@@ -7852,7 +7852,7 @@
 					"desc": "Summon [RevivedCarcass]. \nIgnites the [Purification]s for ::value4:: months.",
 					"cost": [
 						{
-							"r": "Wood",
+							"r": "Food",
 							"q": 150
 						},
 						{
@@ -12755,7 +12755,6 @@
 							"r": "MilitaryXP",
 							"q": 100
 						}
-
 					],
 					"flags": 1
 				},
@@ -13051,7 +13050,7 @@
 					"cost": [
 						{
 							"r": "Food",
-							"q": 100
+							"q": 150
 						},
 						{
 							"r": "MilitaryXP",
