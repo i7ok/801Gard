@@ -7605,7 +7605,7 @@
 					"id": "SacredLure",
 					"values": [
 						{
-							"val": 2.25,
+							"val": 1.5,
 							"id": 0,
 							"props": {
 								"dataType": 1
