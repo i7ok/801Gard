@@ -73,6 +73,11 @@ Kingdoms - 350/500/100
 - Amenties Min/Max breeding period from 7/9 to 5/6
 
 ----------------------------------------------------------------
+# LYNX
+
+- 200 Fame trap cd 2.25 -> 1.5 months
+  
+----------------------------------------------------------------
 # OX
 
 - Extra Food Consumption 15% -> 10%
