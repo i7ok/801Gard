@@ -135795,7 +135795,8 @@
 								"res": "Silver",
 								"qty": 0
 							}
-						]
+						],
+						"needBifrost": true
 					},
 					"rarity": 0,
 					"mpId": "villagerBifrost",
@@ -135902,6 +135903,12 @@
 				{
 					"typeStr": "8",
 					"name": "price",
+					"opt": true,
+					"kind": null
+				},
+				{
+					"typeStr": "2",
+					"name": "needBifrost",
 					"opt": true,
 					"kind": null
 				}
@@ -152930,6 +152937,14 @@
 					]
 				},
 				{
+					"id": "NiflheimSeaFreeze",
+					"files": [
+						{
+							"file": "sfx/ui/nilfheimseafreeze.wav"
+						}
+					]
+				},
+				{
 					"id": "KrakenAttackAnnounce",
 					"files": [
 						{
@@ -158765,7 +158780,7 @@
 						{
 							"values": {
 								"gullveig_stomp": {
-									"radius": 15,
+									"radius": 20,
 									"delay": 3,
 									"poisonDuration": 3,
 									"damage": 50
@@ -159160,10 +159175,10 @@
 													"count": 1
 												},
 												{
-													"count": 1
+													"count": 2
 												},
 												{
-													"count": 1
+													"count": 2
 												}
 											]
 										},
@@ -159455,7 +159470,7 @@
 									"radiusMax": 30,
 									"width": 4.25,
 									"delay": 4.5,
-									"interval": 1.25,
+									"interval": 1.75,
 									"poisonDuration": 5,
 									"damage": 60
 								},
