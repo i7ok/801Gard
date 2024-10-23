@@ -31839,7 +31839,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 25,
+									"qty": 30,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -31922,7 +31922,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 25,
+									"qty": 30,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -32005,7 +32005,7 @@
 									"res": "HuntTrophy"
 								},
 								{
-									"qty": 25,
+									"qty": 30,
 									"res": "Money",
 									"reqTech": "Pillage"
 								}
@@ -40496,8 +40496,8 @@
 					"produce": [],
 					"phases": [
 						{
-							"pv": 35,
-							"atk": 30,
+							"pv": 40,
+							"atk": 25,
 							"def": 3,
 							"model": "Kobold",
 							"lootTable": [
@@ -118121,6 +118121,10 @@
 							{
 								"id": 23,
 								"file": "sfx/ambiance_yggdrasil_loop.wav"
+							},
+							{
+								"id": 24,
+								"file": "sfx/building/sandwormlair_Loop.wav"
 							}
 						],
 						"openingMusic": "music/Muspelheim-Intro Music.ogg"
@@ -119076,7 +119080,7 @@
 			"lines": [],
 			"columns": [
 				{
-					"typeStr": "5:BabyWyvern,BigSword,Birds,Blizzard,CeremonialBonfire,Defeat,Fire,GemstoneDeposit,Global,HealerCamp,Helheim,LavaCracks,MagmaFlow,MarmennillCove,MyrkalfarSpawner,Rain,RatInfestation,River,Sheeps,Victory,Water,Wind,WyvernDen,Yggdrasil",
+					"typeStr": "5:BabyWyvern,BigSword,Birds,Blizzard,CeremonialBonfire,Defeat,Fire,GemstoneDeposit,Global,HealerCamp,Helheim,LavaCracks,MagmaFlow,MarmennillCove,MyrkalfarSpawner,Rain,RatInfestation,River,Sheeps,Victory,Water,Wind,WyvernDen,Yggdrasil,SandwormDen",
 					"name": "id"
 				},
 				{
@@ -119407,7 +119411,7 @@
 							}
 						]
 					},
-					"endDate": "2024-10-28"
+					"endDate": "2024-11-28"
 				},
 				{
 					"id": "SRanked14",
@@ -119415,7 +119419,7 @@
 					"news": {
 						"banner": "ui/menu/ranked/headers/2023_03.jpg"
 					},
-					"startDate": "2024-10-28",
+					"startDate": "2024-11-28",
 					"props": {
 						"rankedRewards": [
 							{
@@ -119456,7 +119460,7 @@
 							}
 						]
 					},
-					"endDate": "2025-06-07"
+					"endDate": "2025-07-07"
 				},
 				{
 					"id": "Christmas",
@@ -119480,11 +119484,11 @@
 						"desc": "Draugrheim map now available!",
 						"banner": "ui/menu/updateBanners/halloween2.png"
 					},
-					"startDate": "2023-10-18",
+					"startDate": "2024-10-24",
 					"props": {
 						"highlightedBiome": "Halloween"
 					},
-					"endDate": "2023-11-01"
+					"endDate": "2024-11-07"
 				},
 				{
 					"id": "ArtbookNews",
